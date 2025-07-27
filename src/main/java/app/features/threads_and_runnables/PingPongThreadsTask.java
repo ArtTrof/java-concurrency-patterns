@@ -1,4 +1,4 @@
-package app.threads_and_runnables;
+package app.features.threads_and_runnables;
 
 
 /**

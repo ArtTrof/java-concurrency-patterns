@@ -1,4 +1,4 @@
-package app.collections;
+package app.features.collections;
 
 import java.util.ArrayList;
 import java.util.Collections;

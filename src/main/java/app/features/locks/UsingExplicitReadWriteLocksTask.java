@@ -1,6 +1,5 @@
-package app.locks;
+package app.features.locks;
 
-import java.util.HashMap;
 import java.util.Map;
 import java.util.Random;
 import java.util.concurrent.ConcurrentHashMap;

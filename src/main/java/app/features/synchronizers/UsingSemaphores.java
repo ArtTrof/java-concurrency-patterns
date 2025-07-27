@@ -1,4 +1,4 @@
-package app.synchronizers;
+package app.features.synchronizers;
 
 import java.util.concurrent.Executors;
 import java.util.concurrent.Semaphore;

@@ -1,4 +1,4 @@
-package app.locks;
+package app.features.locks;
 
 import java.util.concurrent.Executors;
 
