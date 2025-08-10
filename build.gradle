@@ -12,7 +12,8 @@ repositories {
 dependencies {
 
     implementation group: 'io.vavr', name: 'vavr', version: '0.9.0'
-    implementation group: 'org.projectlombok', name: 'lombok', version: '0.11.0'
+    compileOnly 'org.projectlombok:lombok:1.18.38'
+    annotationProcessor 'org.projectlombok:lombok:1.18.38'
 
     testImplementation platform('org.junit:junit-bom:5.10.0')
     testImplementation 'org.junit.jupiter:junit-jupiter'

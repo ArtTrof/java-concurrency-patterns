@@ -1,5 +1,6 @@
 package app.patterns.thread_safe.immutable_object.task;
 
+import lombok.AllArgsConstructor;
 import lombok.Value;
 
 public class ImmutableConfigHolder {
@@ -14,6 +15,7 @@ public class ImmutableConfigHolder {
     }
 
     @Value
+    @AllArgsConstructor
     static class AppConfig {
         int timeout;
         int retryCount;
