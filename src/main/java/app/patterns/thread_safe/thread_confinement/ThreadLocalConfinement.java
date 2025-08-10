@@ -1,4 +1,4 @@
-package app.patterns.thread_confinement;
+package app.patterns.thread_safe.thread_confinement;
 
 
 /**

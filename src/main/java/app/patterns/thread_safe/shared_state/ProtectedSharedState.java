@@ -1,4 +1,4 @@
-package app.patterns.shared_state;
+package app.patterns.thread_safe.shared_state;
 
 import app.patterns.GuardedBy;
 import app.patterns.ThreadSafe;

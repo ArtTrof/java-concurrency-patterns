@@ -1,4 +1,4 @@
-package app.patterns.thread_confinement.task;
+package app.patterns.thread_safe.thread_confinement.task;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
